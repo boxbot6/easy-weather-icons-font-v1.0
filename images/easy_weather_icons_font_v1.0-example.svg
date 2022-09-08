@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160.68mm"
+   height="95.323mm"
+   version="1.1"
+   viewBox="0 0 160.68 95.323"
+   id="svg65"
+   sodipodi:docname="easy_weather_icons_font_1.0-example.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="D:\Documents\My Websites\GitHub Websites\Android-Apps\easy-mode-replica-app-v1.0-working\images\easy_weather_icons_font_1.0-example-144.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <metadata
+     id="metadata69">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
+     id="namedview67"
+     showgrid="false"
+     inkscape:zoom="3.1170557"
+     inkscape:cx="303.64722"
+     inkscape:cy="180.13797"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="sample"
+     showguides="false" />
+  <defs
+     id="defs10">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4580">
+      <stop
+         style="stop-color:#4400d7;stop-opacity:1;"
+         offset="0"
+         id="stop4576" />
+      <stop
+         style="stop-color:#4400d7;stop-opacity:0;"
+         offset="1"
+         id="stop4578" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1144"
+       x1="95.499"
+       x2="96.179"
+       y1="157.82"
+       y2="71.613"
+       gradientTransform="translate(-14.564996,-65.948996)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00aad4"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#a7eeff"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <filter
+       id="filter920"
+       x="-.007478"
+       y="-.013404"
+       width="1.015"
+       height="1.0268"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.45431469"
+         id="feGaussianBlur7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter949"
+       x="-0.0076053066"
+       width="1.0152106"
+       y="-0.013013006"
+       height="1.026026">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.47494013"
+         id="feGaussianBlur951" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1148"
+       x="-0.022116208"
+       width="1.0442324"
+       y="-0.24026566"
+       height="1.4805313">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.40313446"
+         id="feGaussianBlur1150" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4580"
+       id="linearGradient4582"
+       x1="6.4840369"
+       y1="49.871794"
+       x2="154.19596"
+       y2="49.871794"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="sample"
+     inkscape:export-xdpi="360"
+     inkscape:export-ydpi="360"
+     style="display:inline">
+    <rect
+       id="bg_gradient"
+       x="3.1750651e-06"
+       y="1.8835993e-06"
+       width="160.67999"
+       height="95.322998"
+       style="display:none;fill:url(#linearGradient1144);stroke-width:0;paint-order:normal"
+       inkscape:label="background_gradient" />
+    <rect
+       id="bg_blue"
+       x="0"
+       y="3.7671987e-06"
+       width="160.67999"
+       height="95.322998"
+       display="none"
+       style="display:none;fill:#0091e4;stroke-width:0;paint-order:normal"
+       inkscape:label="background_blue" />
+    <rect
+       id="bg_white"
+       x="0"
+       y="-2.5024001e-06"
+       width="160.67999"
+       height="95.322998"
+       display="none"
+       style="display:inline;fill:#ffffff;stroke-width:0;paint-order:normal"
+       inkscape:label="background_white" />
+    <text
+       inkscape:label="icons_shaddow"
+       id="text1166"
+       y="16.351198"
+       x="4.9613347"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:none;opacity:0.472;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26693413;filter:url(#filter949)"
+       xml:space="preserve"
+       transform="matrix(0.99119329,0,0,0.99119329,1.1323184,0.8194676)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="16.351198"
+         x="4.9613347"
+         id="tspan1152"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="28.950489"
+         x="4.9613347"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="41.549782"
+         x="4.9613347"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1158"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="54.149075"
+         x="4.9613347"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1160"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="66.748367"
+         x="4.9613347"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1162"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="79.347656"
+         x="4.9613347"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1164"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.67736626px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26693413"
+         y="91.946945"
+         x="4.9613347"
+         sodipodi:role="line"></tspan></text>
+    <text
+       inkscape:label="icons_white"
+       id="text1188"
+       y="17.026667"
+       x="6.0499549"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="17.026667"
+         x="6.0499549"
+         id="tspan1174"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1176"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="29.514999"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="42.003334"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1180"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="54.491669"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1182"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="66.980003"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="79.468338"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan1186"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458329"
+         y="91.956665"
+         x="6.0499549"
+         sodipodi:role="line"></tspan></text>
+    <text
+       inkscape:label="icons_blue"
+       id="text4574"
+       y="17.026667"
+       x="6.0499549"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#009cd7;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="17.026667"
+         x="6.0499549"
+         id="tspan4560"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4562"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="29.514999"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="42.003334"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="54.491669"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="66.980003"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4570"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="79.468338"
+         x="6.0499549"
+         sodipodi:role="line"></tspan><tspan
+         id="tspan4572"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#009cd7;fill-opacity:1;stroke-width:0.26458329"
+         y="91.956665"
+         x="6.0499549"
+         sodipodi:role="line"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="6.0499549"
+       y="17.026667"
+       id="text1204"
+       inkscape:label="icons_black"><tspan
+         sodipodi:role="line"
+         id="tspan1190"
+         x="6.0499549"
+         y="17.026667"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="29.514999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1192"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="42.003334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1194"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="54.491669"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1196"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="66.980003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1198"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="79.468338"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1200"></tspan><tspan
+         sodipodi:role="line"
+         x="6.0499549"
+         y="91.956665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333397px;line-height:1.17999995;font-family:'Easy Weather Icons';-inkscape-font-specification:'Easy Weather Icons, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458329"
+         id="tspan1202"></tspan></text>
+    <text
+       inkscape:label="text_shaddow"
+       id="text1142"
+       transform="matrix(1.1058016,0,0,0.90432136,0,-0.23822422)"
+       x="25.13299"
+       y="5.5303712"
+       font-size="3.4017px"
+       font-weight="bold"
+       letter-spacing="0px"
+       text-align="center"
+       word-spacing="0px"
+       style="font-weight:bold;font-size:3.26746845px;line-height:1.25;font-family:'Blogger Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;opacity:0.472;fill:#000000;fill-opacity:1;stroke-width:0.26457962;filter:url(#filter1148)"
+       xml:space="preserve"><tspan
+         x="25.13299"
+         y="5.5303712"
+         font-size="4.0821px"
+         font-weight="bold"
+         text-align="center"
+         style="font-weight:bold;font-size:3.92101955px;font-family:'Lugina FP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26457962"
+         id="tspan1140">Easy Weather Icons Font <tspan
+   font-size="2.7214px"
+   font-weight="bold"
+   id="tspan1138"
+   style="font-weight:bold;font-size:2.61401296px;font-family:'Lugina FP';fill:#000000;fill-opacity:1;stroke-width:0.26457962">v1.0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.26746845px;line-height:1.25;font-family:'Blogger Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;opacity:0.99900004;fill:#ffffff;fill-opacity:1;stroke-width:0.26457962"
+       word-spacing="0px"
+       text-align="center"
+       letter-spacing="0px"
+       font-weight="bold"
+       font-size="3.4017px"
+       y="5.2669425"
+       x="25.13299"
+       transform="scale(1.1058016,0.90432136)"
+       id="text1136"
+       inkscape:label="text_white"><tspan
+         id="tspan1134"
+         style="font-weight:bold;font-size:3.92101955px;font-family:'Lugina FP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26457962"
+         text-align="center"
+         font-weight="bold"
+         font-size="4.0821px"
+         y="5.2669425"
+         x="25.13299">Easy Weather Icons Font <tspan
+   style="font-weight:bold;font-size:2.61401296px;font-family:'Lugina FP';fill:#ffffff;fill-opacity:1;stroke-width:0.26457962"
+   id="tspan1132"
+   font-weight="bold"
+   font-size="2.7214px">v1.0</tspan></tspan></text>
+    <text
+       sodipodi:insensitive="true"
+       inkscape:label="text_blue"
+       id="text4599"
+       transform="scale(1.1058016,0.90432136)"
+       x="25.13299"
+       y="5.2669425"
+       font-size="3.4017px"
+       font-weight="bold"
+       letter-spacing="0px"
+       text-align="center"
+       word-spacing="0px"
+       style="font-weight:bold;font-size:3.26746845px;line-height:1.25;font-family:'Blogger Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.99900004;fill:#009cd7;fill-opacity:1;stroke-width:0.26457962"
+       xml:space="preserve"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360"><tspan
+         x="25.13299"
+         y="5.2669425"
+         font-size="4.0821px"
+         font-weight="bold"
+         text-align="center"
+         style="font-weight:bold;font-size:3.92101955px;font-family:'Lugina FP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#009cd7;fill-opacity:1;stroke-width:0.26457962"
+         id="tspan4597">Easy Weather Icons Font <tspan
+   font-size="2.7214px"
+   font-weight="bold"
+   id="tspan4595"
+   style="font-weight:bold;font-size:2.61401296px;font-family:'Lugina FP';fill:#009cd7;fill-opacity:1;stroke-width:0.26457962">v1.0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.26746845px;line-height:1.25;font-family:'Blogger Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:none;opacity:0.99900004;fill:#000000;fill-opacity:1;stroke-width:0.26457962"
+       word-spacing="0px"
+       text-align="center"
+       letter-spacing="0px"
+       font-weight="bold"
+       font-size="3.4017px"
+       y="5.2669425"
+       x="25.13299"
+       transform="scale(1.1058016,0.90432136)"
+       id="text953"
+       inkscape:label="text_black"
+       sodipodi:insensitive="true"><tspan
+         id="tspan951"
+         style="font-weight:bold;font-size:3.92101955px;font-family:'Lugina FP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26457962"
+         text-align="center"
+         font-weight="bold"
+         font-size="4.0821px"
+         y="5.2669425"
+         x="25.13299">Easy Weather Icons Font <tspan
+   style="font-weight:bold;font-size:2.61401296px;font-family:'Lugina FP';fill:#000000;fill-opacity:1;stroke-width:0.26457962"
+   id="tspan949"
+   font-weight="bold"
+   font-size="2.7214px">v1.0</tspan></tspan></text>
+  </g>
+</svg>
